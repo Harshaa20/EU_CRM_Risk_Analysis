@@ -1,5 +1,9 @@
 # EU Critical Raw Materials -- Supply Chain Risk Analysis (2019-2025)
 
+## Dashboard
+
+[View Power BI Report](dashboard/eu_crm_risk_analysis.pbix)
+
 ## What this project is about
 
 The EU imports most of its critical raw materials from a small number of countries. 
