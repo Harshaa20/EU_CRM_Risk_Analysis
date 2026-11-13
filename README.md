@@ -2,7 +2,7 @@
 
 ## Dashboard
 
-[View Power BI Report](dashboard/eu_crm_risk_analysis.pbix)
+[View Power BI Report](https://app.powerbi.com/groups/me/reports/7df48fc8-d8d2-42d9-a0a3-ce7f9013428d/464123ce4c0d406a046e?experience=power-bi)
 
 ## What this project is about
 
