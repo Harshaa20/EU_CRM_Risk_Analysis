@@ -93,7 +93,7 @@ eu-crm-risk-analysis/
 ## Dashboard preview
 
 **Page 1 -- Risk Overview**  
-![Risk Overview](screenshots/Page1_Risk_Overview.png)
+![Risk Overview](screenshots/Page1 _Risk _Overview.png)
 
 **Page 2 -- Supply Concentration**  
 ![Supply Concentration](screenshots/Page2_Supplier_Concentration.png)
