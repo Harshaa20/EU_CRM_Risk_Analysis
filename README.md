@@ -66,3 +66,49 @@ geographically distributed supply and stable pricing.
 ---
 
 ## Project structure
+eu-crm-risk-analysis/
+├── README.md
+├── notebooks/
+│ └── phase1_data_preparation.ipynb
+├── data/
+│ ├── raw/ # original Eurostat files
+│ ├── supplier_data.csv
+│ ├── crm_prices.csv
+│ ├── reconciliation.csv
+│ └── all_materials_reference.csv
+├── sql/
+│ ├── phase2_hhi_analysis.sql
+│ ├── phase3_change_and_volatility.sql
+│ └── phase4_ranking.sql
+├── dashboard/
+│ └── eu_crm_risk_analysis.pbix
+└── screenshots/
+├── page1_risk_overview.png
+├── page2_supply_concentration.png
+└── page3_price_risk_conclusions.png
+
+
+---
+
+## Dashboard preview
+
+**Page 1 -- Risk Overview**  
+![Risk Overview](screenshots/Page1_Risk_Overview.png)
+
+**Page 2 -- Supply Concentration**  
+![Supply Concentration](screenshots/Page2_Supplier_Concentration.png)
+
+**Page 3 -- Price Risk and Conclusions**  
+![Price Risk](screenshots/Page3_Price_Risk_Conclusion.png)
+
+---
+
+## Limitations
+
+- Import shares are value-based (EUR), not volume-based. A price spike in one 
+  country can inflate its apparent share even if physical volumes did not change.
+- The analysis covers EU-level aggregate imports. Country-level exposure within 
+  the EU varies.
+- HHI measures supplier concentration, not geopolitical risk directly. A high HHI 
+  with a stable partner country is different from a high HHI with a politically 
+  exposed one.
