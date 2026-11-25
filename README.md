@@ -4,6 +4,19 @@
 
 [View Power BI Report](https://app.powerbi.com/groups/me/reports/7df48fc8-d8d2-42d9-a0a3-ce7f9013428d/464123ce4c0d406a046e?experience=power-bi)
 
+## Dashboard preview
+
+**Page 1 -- Risk Overview**  
+![Risk Overview](screenshots/Page1_Risk_Overview.png)
+
+**Page 2 -- Supply Concentration**  
+![Supply Concentration](screenshots/Page2_Supplier_Concentration.png)
+
+**Page 3 -- Price Risk and Conclusions**  
+![Price Risk](screenshots/Page3_Price_Risk_Conclusion.png)
+
+---
+
 ## What this project is about
 
 The EU imports most of its critical raw materials from a small number of countries. 
@@ -92,19 +105,6 @@ eu-crm-risk-analysis/
 ├── page2_supply_concentration.png
 └── page3_price_risk_conclusions.png
 
-
----
-
-## Dashboard preview
-
-**Page 1 -- Risk Overview**  
-![Risk Overview](screenshots/Page1_Risk_Overview.png)
-
-**Page 2 -- Supply Concentration**  
-![Supply Concentration](screenshots/Page2_Supplier_Concentration.png)
-
-**Page 3 -- Price Risk and Conclusions**  
-![Price Risk](screenshots/Page3_Price_Risk_Conclusion.png)
 
 ---
 
